@@ -9,3 +9,4 @@ Chinese | Japanese | English
 动词 | 動詞 どうし| verb
 形容词 | 形容詞 けいようし| adjective
 副词 | 副詞 ふくし| adverb
+科学 | 科学 かがく| science
