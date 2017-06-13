@@ -11,4 +11,4 @@ Chinese | Japanese | English
 副词 | 副詞 ふくし| adverb
 科学 | 科学 かがく| science
 政治 | 政治 せいじ| politics
-民主1 | 民主1 みんしゅ| democracy1
+民主1 | 民主 みんしゅ| democracy
